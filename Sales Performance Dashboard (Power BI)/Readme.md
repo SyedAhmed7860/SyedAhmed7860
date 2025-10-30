@@ -45,7 +45,7 @@ The dataset contains fields such as:
 ---
 
 ## 🖼️ Dashboard Preview
-![Global Sales Dashboard](https://github.com/SyedAhmed7860/PowerBI-GlobalSales/blob/main/dashboard-preview.png)
+![Global Sales Dashboard](https://github.com/SyedAhmed7860/SyedAhmed7860/blob/main/Sales%20Performance%20Dashboard%20(Power%20BI)/Global%20Sales%20Performance%20Dashboard.pdf)
 
 *(Replace the above image link with your actual screenshot path in the repo)*
 
