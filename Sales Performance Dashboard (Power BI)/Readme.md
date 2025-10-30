@@ -1,41 +1,67 @@
-🌍 Global Sales Performance Dashboard – Power BI Project
-📊 Project Overview
+# 🌍 Global Sales Performance Dashboard
 
-This Power BI dashboard provides a detailed analysis of global sales performance across multiple years, product lines, deal sizes, and countries.
-The goal of this report is to identify sales trends, key performance indicators (KPIs), and top-performing categories to support data-driven decision-making.
+🚀 **Power BI Dashboard Project**
 
-🧠 Key Insights
+This project showcases a fully interactive **Global Sales Performance Dashboard** created using **Power BI**.  
+It provides a complete view of sales trends, key performance indicators (KPIs), and business insights across multiple dimensions — such as **Year, Product Line, Country, and Deal Size**.
 
-📈 Total Sales: 301.59K
+---
 
-📆 Year Range: 2003 – 2005
+## 📊 Dashboard Overview
 
-🏆 Top Product Line: Classic Cars
+### ✅ Key Insights Displayed:
+- **Total Sales** and **Year Count** (KPIs)
+- **Sales Trend by Month**
+- **Sales by Product Line**
+- **Sales Distribution by Country**
+- **Sales by Deal Size (Large, Medium, Small)**
+- **Interactive Filters by Year**
 
-🌎 Top Country: United States
+### 🧭 Features:
+- Dynamic slicers and filters for flexible analysis  
+- Clean and responsive layout  
+- Visual storytelling using charts and KPIs  
+- Ideal for global sales data monitoring and business decision support  
 
-💰 Largest Deal Size: Large Deals contributed the most to total revenue.
+---
 
-⚙️ Features
+## 🧠 Tools & Technologies
+- **Power BI Desktop**
+- **Microsoft Excel** (for data source)
+- **Data Modeling & DAX Measures**
+- **Visualization Techniques**
 
-Interactive filters (Year-wise and Product Line)
+---
 
-Dynamic KPI cards showing sales and year count
+## 📂 Dataset Details
+The dataset contains fields such as:
+- `YEAR_ID`
+- `MONTH_ID`
+- `COUNTRY`
+- `PRODUCT_LINE`
+- `SALES`
+- `DEALSIZE`
 
-Sales trend visualization over time
+---
 
-Country-level sales comparison (Map/Pie chart)
+## 🖼️ Dashboard Preview
+![Global Sales Dashboard](https://github.com/SyedAhmed7860/PowerBI-GlobalSales/blob/main/dashboard-preview.png)
 
-Deal size distribution analysis
+*(Replace the above image link with your actual screenshot path in the repo)*
 
-Clean and professional color scheme for readability
+---
 
-🛠️ Tools Used
+## 👤 Author
+**Syed Ahmed**  
+🌐 [GitHub](https://github.com/SyedAhmed7860)  
+💼 [LinkedIn](https://linkedin.com/in/syedahmedpro)  
+✉️ [syedahmed.sa43@gmail.com](mailto:syedahmed.sa43@gmail.com)
 
-Power BI Desktop
+---
 
-Excel / CSV Dataset
+## 🪪 License
+This project is licensed under the **MIT License** — feel free to use and modify with proper credit.
 
-Data Cleaning: Power Query
+---
 
-Data Visualization: Power BI Charts, Cards, and Filters
+⭐ *If you like this dashboard, don’t forget to star the repo!*
