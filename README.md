@@ -7,44 +7,34 @@ I enjoy solving real-world problems using data-driven decision-making.
 
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Projects
+🧩 1. Sales Performance Dashboard (Power BI)
 
-### 🧩 1. Power BI Sales Dashboard  
-**Description:** A dynamic Power BI dashboard that visualizes company sales performance across regions, products, and timelines.  
-**Key Features:** Interactive filters, KPI cards, trend analysis, drill-downs  
-**Skills Used:** Power BI, DAX, Excel, Data Cleaning  
-**Repo Link:** [🔗 View Project](#)
+Description: A dynamic Power BI dashboard visualizing company sales performance across regions, products, and timelines.
+Key Features: Interactive filters, KPI cards, trend analysis, drill-downs
+Skills Used: Power BI, DAX, Excel, Data Cleaning
+Repo Link: 🔗 View Project
 
----
+📊 2. SQL Data Cleaning & Query Automation
 
-### 📊 2. Data Cleaning & Visualization using Python  
-**Description:** Cleaned and analyzed a large dataset using Pandas and Matplotlib to uncover business insights.  
-**Key Features:** Null handling, outlier detection, correlation analysis, visual storytelling  
-**Skills Used:** Python, Pandas, Matplotlib, Seaborn  
-**Repo Link:** [🔗 View Project](#)
+Description: Cleaned and transformed a large dataset using SQL and Python for business-ready analytics.
+Key Features: Data normalization, null handling, duplicates removal, structured storage
+Skills Used: SQL, Python, Pandas, Matplotlib, Seaborn
+Repo Link: 🔗 View Project
 
----
+🤖 3. Machine Learning Model for Customer Churn Prediction
 
-### 🤖 3. Predicting Customer Churn (Machine Learning)  
-**Description:** Built a predictive model to identify customers likely to churn using classification algorithms.  
-**Key Features:** Logistic Regression, Feature Engineering, Model Evaluation (Accuracy & ROC)  
-**Skills Used:** Scikit-learn, NumPy, Pandas, ML Algorithms  
-**Repo Link:** [🔗 View Project](#)
+Description: Built a predictive model to identify customers likely to churn using classification algorithms.
+Key Features: Logistic Regression, Feature Engineering, Model Evaluation (Accuracy & ROC)
+Skills Used: Scikit-learn, NumPy, Pandas, ML Algorithms
+Repo Link: 🔗 View Project
 
----
+📈 4. Google Analytics + Excel Data Insights
 
-### 🧠 4. Sentiment Analysis using NLP  
-**Description:** Performed sentiment analysis on product reviews using Natural Language Processing.  
-**Key Features:** Tokenization, Lemmatization, Sentiment Scoring, WordCloud Visualization  
-**Skills Used:** Python, NLTK, TextBlob, Matplotlib  
-**Repo Link:** [🔗 View Project](#)
-
----
-
-### 📈 5. HR Analytics Dashboard  
-**Description:** Analyzed employee attrition trends and performance metrics using Power BI.  
-**Skills Used:** Power BI, Data Modelling, DAX, HR Metrics  
-**Repo Link:** [🔗 View Project](#)
+Description: Analyzed and visualized traffic & engagement data from Google Analytics using Excel and Power BI.
+Key Features: KPI reports, conversion tracking, funnel visualization, actionable insights
+Skills Used: Excel, Power BI, Data Visualization, Analytics Reporting
+Repo Link: 🔗 View Project
 
 ---
 
