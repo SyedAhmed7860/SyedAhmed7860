@@ -17,32 +17,26 @@ The project uses **SQLite** for data storage and **Python (Pandas + Seaborn + Ma
 
 ---
 
-## 🧰 Tools & Technologies
-- **Python 3**
-- **Google Colab / Jupyter Notebook**
-- **Pandas**
-- **Matplotlib & Seaborn**
-- **SQLite3 Database**
-
----
-
-## 📂 Folder Structure
+## 🗂 Folder Structure
 
 Corporate_Sales_Analysis/
 │
 ├── Corporate_Sales_Project.ipynb # Main project notebook
 ├── corporate_sales.csv # Dataset
-├── corporate_sales.db # SQLite database file
-├── images/ # Visualization charts
-│ ├── 1_sales_by_region.png
-│ ├── 2_top_clients.png
-│ ├── 3_sales_by_category.png
-│ ├── 4_payment_methods.png
-│ └── 5_monthly_sales_trend.png
+├── corporate_sales.db # SQLite database
+├── images/ # Visualization charts (generated)
+│ ├── Monthly Sales Trend.png
+│ ├── Payment Method Distribution.png
+│ ├── Top 10 Clint s by Total Sales.png
+│ ├── Total Sales by Product Category.png
+│ └── Total Sales by Region.png
 └── README.md # Documentation
 
 yaml
 Copy code
+
+> 🚨 Note: The image filenames above are exactly as generated and present in the project folder.  
+> If you prefer cleaner names (recommended for professionalism), see the “Rename files” tip below.
 
 ---
 
@@ -66,37 +60,25 @@ data.to_sql("sales_data", conn, if_exists="replace", index=False)
 conn.close()
 This allows smooth data retrieval and scalability for future integration with dashboards.
 
-📊 Visualizations
-Chart	Description
-1️⃣	Total Sales by Region
-2️⃣	Top 10 Clients by Sales
-3️⃣	Sales by Product Category
-4️⃣	Payment Method Distribution
-5️⃣	Monthly Sales Trend
+📊 Visualizations (files in /images)
+Chart filename	Description
+Monthly Sales Trend.png	Time-series of monthly total sales
+Payment Method Distribution.png	Share of payment methods used (pie chart)
+Top 10 Clint s by Total Sales.png	Top 10 clients by revenue
+Total Sales by Product Category.png	Revenue per product category
+Total Sales by Region.png	Regional revenue comparison
 
-All generated charts are stored in the images/ folder.
+⚙️ How to run
+Clone or download the repository.
+
+Install requirements (see requirements.txt) or run in Colab.
+
+Open Corporate_Sales_Project.ipynb and run cells sequentially.
+
+Generated charts are saved to the images/ folder.
 
 👤 Author
 Syed Ahmed
-📧 Email: syedahmed.sa43@gmail.com
-🌐 GitHub: github.com/SyedAhmed7860
-💼 LinkedIn: linkedin.com/in/syedahmedpro
-
-⭐ If you like this project, don’t forget to star it on GitHub!
-
-markdown
-Copy code
-
----
-
-## 🔧 Next Step (GitHub Upload)
-
-1. Go to [GitHub.com](https://github.com) → click **New Repository**  
-2. Name it: `Corporate_Sales_Analysis`  
-3. Click **Create Repository**  
-4. Upload the following:
-   - `Corporate_Sales_Project.ipynb`
-   - `corporate_sales.csv`
-   - `corporate_sales.db`
-   - Entire `images/` folder  
-   - `README.md`
+📧 syedahmed.sa43@gmail.com
+🌐 github.com/SyedAhmed7860
+💼 linkedin.com/in/syedahmedpro
