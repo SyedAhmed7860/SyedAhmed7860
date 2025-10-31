@@ -1,11 +1,9 @@
-# 👋 Hi, I'm Syed Ahmed  
-### 💻 Data Analyst | AI Enthusiast | Oracle Certified Professional  
+👋 Hi, I'm Syed Ahmed
+💻 Data Analyst | AI Enthusiast | Oracle Certified Professional
 
-I'm passionate about transforming raw data into meaningful insights using Machine Learning, AI, and modern analytics tools.  
-Currently pursuing my **MCA (Master of Computer Applications)** with **Data Science electives**.  
+I'm passionate about transforming raw data into meaningful insights using Machine Learning, AI, and modern analytics tools.
+Currently pursuing my MCA (Master of Computer Applications) with Data Science electives.
 I enjoy solving real-world problems using data-driven decision-making.
-
----
 
 🚀 Featured Projects
 🧩 1. Sales Performance Dashboard (Power BI)
@@ -36,84 +34,103 @@ Key Features: KPI reports, conversion tracking, funnel visualization, actionable
 Skills Used: Excel, Power BI, Data Visualization, Analytics Reporting
 Repo Link: 🔗 View Project
 
----
+🧠 Certifications
+🎓 AI & Machine Learning
 
-## 🧠 Certifications
+Machine Learning (Columbia University)
 
-### 🎓 **AI & Machine Learning**
-- Machine Learning (Columbia University)  
-- Artificial Intelligence Foundations: Machine Learning – LinkedIn Learning  
-- Oracle Cloud Infrastructure 2025 Certified Data Science Professional – Oracle University  
-- Oracle Cloud Infrastructure 2025 AI Foundations Associate – Oracle University  
-- Built-in Machine Learning in the Wolfram Language – LinkedIn Learning  
-- Generative AI Tools – Skill Nation  
-- AI Tools Workshop – Be10x  
-- Generative AI Mastermind – Outskill  
+Artificial Intelligence Foundations: Machine Learning – LinkedIn Learning
 
-### 📊 **Data Analytics & Visualization**
-- Become a Data Analyst (LinkedIn Learning – 49 hrs)  
-- Power BI Essential Training (2024) – CPE  
-- Power BI Workshop – Be10x  
-- Introduction to Data Analysis using Microsoft Excel – Coursera  
-- Getting Started with Microsoft Excel – Coursera  
-- Get Started Using Google Analytics – Skillshop  
-- SQL Workshop – Be10x  
-- Business Analysis & Process Management – Coursera  
+Oracle Cloud Infrastructure 2025 Certified Data Science Professional – Oracle University
 
-### ☁️ **Cloud & Development**
-- Oracle APEX Cloud Developer Professional – Oracle University  
-- Build a Computer Vision App with Azure Cognitive Services – Microsoft  
+Oracle Cloud Infrastructure 2025 AI Foundations Associate – Oracle University
 
-### ⚙️ **Process & Management**
-- Six Sigma Yellow Belt – Sparen & Gewinn Consulting  
-- Effective Leadership – HP LIFE  
-- IT for Business Success – HP LIFE  
+Built-in Machine Learning in the Wolfram Language – LinkedIn Learning
 
----
+Generative AI Tools – Skill Nation
 
-## 🎓 Education
+AI Tools Workshop – Be10x
 
-- **Master of Computer Applications (MCA)** – *Data Science Electives (Pursuing)*  
-- **Bachelor of Commerce (B.Com)** – *2020–2023*  
-- **Bachelor of Fine Arts (Animation & Gaming)** – *Discontinued*  
+Generative AI Mastermind – Outskill
 
----
+📊 Data Analytics & Visualization
 
-## 🛠️ Tech Stack
+Become a Data Analyst (LinkedIn Learning – 49 hrs)
 
-**Languages & Tools:**  
-`Python` · `SQL` · `Power BI` · `Excel` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Machine Learning` · `Scikit-learn` · `Oracle Cloud` · `Azure Cognitive Services` · `Google Analytics`
+Power BI Essential Training (2024) – CPE
 
----
+Power BI Workshop – Be10x
 
-## 📊 Data Analytics Skills
-- Data Cleaning & Preprocessing  
-- Data Visualization & Reporting  
-- Predictive Modelling  
-- Statistical Analysis  
-- Dashboard Design (Power BI, Excel)  
-- Exploratory Data Analysis (EDA)  
-- Business Intelligence  
+Introduction to Data Analysis using Microsoft Excel – Coursera
 
----
+Getting Started with Microsoft Excel – Coursera
 
-## 🏅 Achievements
-- Oracle Certified Data Science Professional (2025)  
-- Six Sigma Yellow Belt Certified  
-- Machine Learning Certificate from Columbia University  
+Get Started Using Google Analytics – Skillshop
 
----
+SQL Workshop – Be10x
 
-## 📫 Connect with Me
-- 🌐 **GitHub:** [github.com/SyedAhmed7860](https://github.com/SyedAhmed7860)  
-- 💼 **LinkedIn:** [linkedin.com/in/syedahmedpro](https://www.linkedin.com/in/syedahmedpro)  
-- ✉️ **Email:** syedahmed.sa43@gmail.com  
+Business Analysis & Process Management – Coursera
 
----
+☁️ Cloud & Development
 
-## ⚖️ License
-This repository and all projects within are licensed under the **MIT License** — free to use and share with proper credit.  
+Oracle APEX Cloud Developer Professional – Oracle University
 
----
+Build a Computer Vision App with Azure Cognitive Services – Microsoft
 
-⭐ *"Turning Data into Decisions, and Decisions into Impact."*  
+⚙️ Process & Management
+
+Six Sigma Yellow Belt – Sparen & Gewinn Consulting
+
+Effective Leadership – HP LIFE
+
+IT for Business Success – HP LIFE
+
+🎓 Education
+
+Master of Computer Applications (MCA) – Data Science Electives (Pursuing)
+
+Bachelor of Commerce (B.Com) – 2020–2023
+
+Bachelor of Fine Arts (Animation & Gaming) – Discontinued
+
+🛠️ Tech Stack
+
+Python · SQL · Power BI · Excel · Pandas · NumPy · Matplotlib · Seaborn · Machine Learning · Scikit-learn · Oracle Cloud · Azure Cognitive Services · Google Analytics
+
+📊 Data Analytics Skills
+
+Data Cleaning & Preprocessing
+
+Data Visualization & Reporting
+
+Predictive Modelling
+
+Statistical Analysis
+
+Dashboard Design (Power BI, Excel)
+
+Exploratory Data Analysis (EDA)
+
+Business Intelligence
+
+🏅 Achievements
+
+Oracle Certified Data Science Professional (2025)
+
+Six Sigma Yellow Belt Certified
+
+Machine Learning Certificate from Columbia University
+
+📫 Connect with Me
+
+🌐 GitHub: github.com/SyedAhmed7860
+
+💼 LinkedIn: linkedin.com/in/syedahmedpro
+
+✉️ Email: syedahmed.sa43@gmail.com
+
+⚖️ License
+
+This repository and all projects within are licensed under the MIT License — free to use and share with proper credit.
+
+⭐ "Turning Data into Decisions, and Decisions into Impact."
